@@ -1,2 +1,2 @@
-Tani aprende cs
-
+-Tani aprende cs
+- le gusta aprender cosas nuevas 
